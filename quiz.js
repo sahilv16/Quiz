@@ -28,7 +28,7 @@ let questions = [
         choiceC : "2cr",
         correct : "B"
     },{
-        question : "Tarun life me kya bnana chahta hai ?",
+        question : "Tarun life me kya ban na chahta hai ?",
         imgSrc : "https://cdn2.vectorstock.com/i/1000x1000/84/21/bureaucrat-vector-788421.jpg",
         choiceA : "Politician",
         choiceB : "Investment Banker",
@@ -59,6 +59,14 @@ let questions = [
         choiceC : "Muskan Chawla",
         correct : "C"
     },
+    {
+        question : "Ye ques kisne bnaye hain ?",
+        imgSrc : "https://i0.wp.com/kbcliv.in/wp-content/uploads/2019/09/mahabharata-kbc.jpg?w=1024&ssl=1",
+        choiceA : "Goti Goel",
+        choiceB : "Sahil",
+        choiceC : "Singal",
+        correct : "A"
+    }
     
 ];
 
