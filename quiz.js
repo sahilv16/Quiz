@@ -46,7 +46,7 @@ let questions = [
     {
         question : "Goti ko kiske sapne aate hain ?",
         imgSrc : "https://images.sadhguru.org/sites/default/files/media_files/11487-bigstock-woman-lighting-stars-47940332.jpg",
-        choiceA : "Tarun",
+        choiceA : "Chandila",
         choiceB : "Kanika",
         choiceC : "Muskan",
         correct : "A"
