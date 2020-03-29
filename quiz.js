@@ -13,6 +13,14 @@ const scoreDiv = document.getElementById("scoreContainer");
 
 // create our questions
 let questions = [
+     {
+        question : "Chandila pe kitna paisa hai ?",
+        imgSrc : "https://img.etimg.com/thumb/width-640,height-480,imgsize-94334,resizemode-1,msid-66159360/fall-in-rupee-not-bad-news-for-students-going-overseas.jpg",
+        choiceA : "Andha",
+        choiceB : "Bhatera",
+        choiceC : "Theek Theek",
+        correct : "A"
+    },
     {
         question : "Tarun Chandila ke kitne school hai ?",
         imgSrc : "https://scontent.fdel3-1.fna.fbcdn.net/v/t31.0-8/14289949_1184779038261250_5735890412364153543_o.jpg?_nc_cat=103&_nc_sid=6e5ad9&_nc_ohc=2AQeCn9AE3YAX-0a0Mi&_nc_ht=scontent.fdel3-1.fna&oh=6a79a0cc8bd1207f7167fc0880f6b5a1&oe=5EA77B8F",
@@ -61,6 +69,14 @@ let questions = [
     },
     {
         question : "Ye ques kisne bnaye hain ?",
+        imgSrc : "https://i0.wp.com/kbcliv.in/wp-content/uploads/2019/09/mahabharata-kbc.jpg?w=1024&ssl=1",
+        choiceA : "Goti Goel",
+        choiceB : "Sahil",
+        choiceC : "Singal",
+        correct : "A"
+    },
+     {
+        question : "",
         imgSrc : "https://i0.wp.com/kbcliv.in/wp-content/uploads/2019/09/mahabharata-kbc.jpg?w=1024&ssl=1",
         choiceA : "Goti Goel",
         choiceB : "Sahil",
